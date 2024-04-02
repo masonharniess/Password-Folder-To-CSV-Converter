@@ -6,6 +6,8 @@ A small Python script to fix an idiosyncratic password conversion problem where 
 
 This script converts a collection of .txt files to .csv format for use by Bitwarden password manager. 
 
+The output .csv is conditioned as per the instructions given by [bitwarden.com](https://bitwarden.com/help/condition-bitwarden-import/).
+
 ## Formatting
 
 The script assumes the following about formatting:
