@@ -2,7 +2,7 @@ import os
 import csv
 import re
 
-directory_path = 'example files'
+directory_path = 'directory'
 csv_file_path = 'login_details.csv'
 csv_header = ['folder', 'favorite', 'type', 'name', 'notes', 'fields', 'reprompt', 'login_uri', 'login_username',
               'login_password', 'login_totp']
